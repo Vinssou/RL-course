@@ -41,6 +41,7 @@
 [7-A Basic Actor-Critic Agent](https://www.youtube.com/watch?v=KdHQ24hBKho)
 
 ...
+
 [14-DDPG: Deep Deterministic Policy Gradient, Continuous Action-space](https://www.youtube.com/watch?v=0NVOPIyrr98)
 
 
