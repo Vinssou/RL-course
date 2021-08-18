@@ -3,6 +3,14 @@
 
 ## 1.Introduction
 
+### Lesson9: Temporal Difference Method
+
+[4-TD Control Sarsa](https://www.youtube.com/watch?v=U_CV-UC9G2c)
+
+[6-TD Control QLearning](https://www.youtube.com/watch?v=4DxoYuR7aZ4)
+
+[8-TD Control Expected Sarsa ](https://www.youtube.com/watch?v=kEKupCyU0P0)
+
 ## 2.Value Based Methods
 
 ### Deep Q Network
@@ -17,6 +25,18 @@
 [11-Dueling DQN](https://www.youtube.com/watch?v=zZeHbPs39Ls)
 
 ## 3.Policy Based Methods
+
+### Lesson 2: Introduction to Policy Based Method
+
+[4-Hill Climbing](https://www.youtube.com/watch?v=5E86a0OyVyI)
+
+[5-Hill Climbing Pseudocode](https://www.youtube.com/watch?v=0XzzqIXyax0)
+
+[6-Beyond Hill Climbing](https://www.youtube.com/watch?v=QicxmyE5vTo)
+
+[7-Black Box Optimization -Cross Entropy -Evolution Strategy](https://www.youtube.com/watch?v=2poDljPvY58&)
+
+[11-Why Policy Based Methods?](https://www.youtube.com/watch?v=ToS8vXGdODE)
 
 ### Lesson 4: Proximal Policy Optimisation
 [Noise reduction](https://www.youtube.com/watch?v=GCGqT2knFJ0)
