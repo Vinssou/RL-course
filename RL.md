@@ -38,6 +38,10 @@
 
 [11-Why Policy Based Methods?](https://www.youtube.com/watch?v=ToS8vXGdODE)
 
+### Lesson 3: Introduction to Policy Based Method
+
+[5-REINFORCE](https://www.youtube.com/watch?v=o6CI2q3IXEs)
+
 ### Lesson 4: Proximal Policy Optimisation
 [Noise reduction](https://www.youtube.com/watch?v=GCGqT2knFJ0)
 
