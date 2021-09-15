@@ -73,7 +73,13 @@
 
 ### Lesson 3 Alpha Zero
 
-## AlphaZero 1: Guided Tree Search
+
+[3-Monte Carlo Tree Search 1 - Random Sampling](https://www.youtube.com/watch?v=wn2B3j_Qz6E)
+
+[Monte Carlo Tree Search 2 - Expansion and Back-propagation](https://www.youtube.com/watch?v=H34Wtk1iNDY)
+
 [5-AlphaZero 1: Guided Tree Search](https://www.youtube.com/watch?v=LinuRy47xbw)
 
 [6-Alpha Zero 2: Self-Play Training](https://www.youtube.com/watch?v=wl1qfPXqRuQ)
+
+
