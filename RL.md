@@ -64,9 +64,24 @@
 
 [7-A Basic Actor-Critic Agent](https://www.youtube.com/watch?v=KdHQ24hBKho)
 
-...
+[8-A3C: Asynchronous Advantage Actor-Critic, N-step Bootstrapping](https://www.youtube.com/watch?v=twNXFplIAP8)
+
+[9-A3C: Asynchronous Advantage Actor-Critic, Parallel Training](https://www.youtube.com/watch?v=kKRbAKhjACo)
+
+[10-A3C: Asynchronous Advantage Actor-Critic, Off-policy vs. On-policy](https://www.youtube.com/watch?v=AZiy5R0DESU)
+
+[Link to the Q-Prop paper](https://arxiv.org/abs/1611.02247)
+
+[11-A2C: Advantage Actor-Critic](https://www.youtube.com/watch?v=fIWe3xA97DA)
+
+[12-A2C Code Walk-through](https://github.com/ShangtongZhang/DeepRL)
+
+[13-GAE: Generalized Advantage Estimation](https://www.youtube.com/watch?v=oLFocWp0dt0)
 
 [14-DDPG: Deep Deterministic Policy Gradient, Continuous Action-space](https://www.youtube.com/watch?v=0NVOPIyrr98)
+
+[15-DDPG: Deep Deterministic Policy Gradient, Soft Updates](https://www.youtube.com/watch?v=RT-HDnAVe9o)
+
 
 
 ## 4.Multi Agent
@@ -76,7 +91,7 @@
 
 [3-Monte Carlo Tree Search 1 - Random Sampling](https://www.youtube.com/watch?v=wn2B3j_Qz6E)
 
-[Monte Carlo Tree Search 2 - Expansion and Back-propagation](https://www.youtube.com/watch?v=H34Wtk1iNDY)
+[4-Monte Carlo Tree Search 2 - Expansion and Back-propagation](https://www.youtube.com/watch?v=H34Wtk1iNDY)
 
 [5-AlphaZero 1: Guided Tree Search](https://www.youtube.com/watch?v=LinuRy47xbw)
 
